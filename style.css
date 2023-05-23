@@ -60,7 +60,6 @@ label{
     }
     #container{
         padding: 25px 20px;
-        width: 275px;
     }
     .inp {
         width: 160px;
@@ -70,9 +69,6 @@ label{
 @media(max-width:450px){
     h1{
         font-size: 25px;
-    }
-    #container {
-        width: 250px;
     }
     .inp {
         width: 125px;
@@ -85,7 +81,7 @@ label{
         font-size: 25px;
     }
     #container {
-        width: 225px;
+        width: 200px;
     }    
     .inp {
         width: 115px;
